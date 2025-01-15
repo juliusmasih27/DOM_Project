@@ -3,6 +3,8 @@
 1. Access the Live Project:
 Click on the link below to access the live version of the project:
 
+https://juliusmasih27.github.io/DOM_Project/
+
 2. How to View the Project in Your Browser:
 
 Open your preferred web browser (e.g., Google Chrome, Firefox, Safari).
